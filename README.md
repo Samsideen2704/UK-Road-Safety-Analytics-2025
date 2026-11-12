@@ -214,3 +214,24 @@ One of the biggest lessons was that data analysis involves more than writing que
 #### Key skills I demonstrated
 
 Data cleaning, Excel Power Query, SQL, MySQL, relational databases, data validation, exploratory data analysis, Tableau and data visualisation.
+
+
+## Tableau Dashboard Previews
+
+### 1. Road Safety Collisions Overview
+![Road Safety Collisions Overview](tableau/01%20ROAD%20SAFETY%20COLLISIONS%20OVERVIEW.png)
+
+### 2. Collision Conditions
+![Collision Conditions](tableau/02%20COLLISION%20CONDITIONS.png)
+
+### 3. Casualty Analysis
+![Casualty Analysis](tableau/03%20CASUALTY%20ANALYSIS.png)
+
+### 4. Vehicle Analysis
+![Vehicle Analysis](tableau/04%20VEHICLE%20ANALYSIS.png)
+
+## Tableau Workbook
+
+The complete packaged Tableau workbook is available here:
+
+`tableau/UK Road safety analytics 2025 Dashboard.twbx`
