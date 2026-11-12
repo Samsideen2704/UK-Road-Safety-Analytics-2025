@@ -30,9 +30,14 @@ I used this project to investigate how collision severity varies across road typ
 - Which local authority areas recorded the highest number of collisions?
 
 
-## Dataset
+## Dataset and Data Source
 
 **Source:** UK Department for Transport — Road Safety Data, 2025.
+ 
+The datasets used in this project were obtained from the UK Department for Transport (DfT).
+
+The original datasets are publicly available from the official data source
+[Road Safety Open Data – Department for Transport](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)
 
 The project uses three CSV datasets:
 
@@ -95,7 +100,7 @@ I then used SQL to:
 ### 3. Data Validation
 
 I didn't want to assume that the data was correct simply because it had been imported successfully.
-I carried out the follwing checks to make sure the tables were properly connected and the records were consistent:
+I carried out the following checks to make sure the tables were properly connected and the records were consistent:
 
 - I checked for duplicate identifiers.
 - I verified relationships between the three tables.
@@ -192,13 +197,8 @@ UK-Road-Safety-Analytics-2025/
 │   └── SQL analysis and validation scripts
 │
 ├── tableau/
-│   └── Tableau workbook
-│
-├── screenshots/
-│   └── Dashboard screenshots
-│
-├── data/
-│   └── Dataset source information
+│   └── Tableau workbook and Dashboard screenshots
+│ 
 │
 └── README.md
 ```
